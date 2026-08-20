@@ -32,16 +32,16 @@ Ao concluir a disciplina, o aluno será capaz de:
 ### Bibliografia Sugerida
 
 - Aldrich, J., Le Goues, C. & Padhye, R. — [*Program Analysis*](https://cmu-program-analysis.github.io/2025/). CMU, 2025.
-    - referenciado como CMU-PA abaixo.
+    - referenciado como CMU-PA no plano de ensino abaixo.
 - Møller, A. & Schwartzbach, M. I. — [*Static Program Analysis*](https://cs.au.dk/~amoeller/spa/). Aarhus, 2025.
-    - - referenciado como SPA abaixo
+    - referenciado como SPA no plano de ensino abaixo. 
 - Rival, X. & Yi, K. — *Introduction to Static Analysis: An Abstract Interpretation Perspective*. MIT Press, 2020.
 
 ### Linguagens e Ferramentas
 
 **Linguagem de referência (teoria, quadro):** WHILE / WHILE₃ADDR (CMU-PA).
 
-**Ferramentas usadas eixo prático** — deliberadamente reais, não implementações de referência construídas do zero:
+**Ferramentas a serem usadas no eixo prático**:
 
 | Ferramenta | Linguagem | Papel |
 |---|---|---|
@@ -56,12 +56,12 @@ Ao concluir a disciplina, o aluno será capaz de:
 
 As sessões seguem quatro formatos:
 
-* **T — Teórica:** aula expositiva.
-* **D — Discussão de artigo:** leitura obrigatória prévia, cada aluno traz pelo menos uma pergunta para a discussão.
-* **E — Laboratório:** atividade prática com uma das ferramentas.
-* **P — Sessão de projeto:** acompanhamento, orientação e apresentações do projeto conduzido pelos alunos.
+* **Teórica:** aula expositiva.
+* **Discussão de artigo:** leitura obrigatória prévia, cada aluno traz pelo menos uma pergunta para a discussão.
+* **Laboratório:** atividade prática com uma das ferramentas.
+* **Projeto:** acompanhamento, orientação e apresentações do projeto conduzido pelos alunos.
 
-Cada unidade teórica é estruturada para responder, de forma explícita, a três perguntas que articulam a área:
+Cada unidade é estruturada para responder, de forma explícita, a três perguntas que norteiam nossos estudos na área:
 
 1. Qual é a semântica de referência?
 2. Que aproximação está sendo feita sobre essa semântica?
