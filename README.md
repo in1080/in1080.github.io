@@ -98,12 +98,12 @@ Cada unidade é estruturada para responder, de forma explícita, a três pergunt
 | 02.09.26 | quarta        | 13h–15h   | Análise de tipos | Leitura complementar opcional: SPA Cap. 3 |
 | 07.09.26 | segunda       | 15h–17h   | **Independência do Brasil (Feriado Nacional)** | --- |
 | 09.09.26 | quarta        | 13h–15h   | [REMOTA] Tópico a definir | Ler CMU-PA Caps. 4–5 antes da aula de 14/09 |
-| 14.09.26 | segunda       | 15h–17h   | Lattices, monotone framework, soundness | CMU-PA Caps. 4–5 |
+| 14.09.26 | segunda       | 15h–17h   | _Aula cancelada por motivo de saúde_ | --- |
 | 16.09.26 | quarta        | 13h–15h   | Discussão: [Sadowski et al. — Lessons from Building Static Analysis Tools at Google (CACM 2018)](https://dl.acm.org/doi/10.1145/3188720) | Leitura obrigatória, trazer 1 pergunta |
-| 21.09.26 | segunda       | 15h–17h   | Laboratório: Checker Framework | JDK + Maven/Gradle configurados. Leitura complementar opcional: [Papi et al., Practical Pluggable Types for Java (ISSTA 2008)](https://dl.acm.org/doi/10.1145/1390630.1390656) |
-| 23.09.26 | quarta        | 13h–15h   | Discussão: [Distefano, Fähndrich, Logozzo & O'Hearn — Scaling Static Analyses at Facebook (CACM 2019)](https://dl.acm.org/doi/10.1145/3338112) | Leitura obrigatória; trazer 1 pergunta |
+| 21.09.26 | segunda       | 15h–17h   | Lattices, monotone framework, soundness | CMU-PA Caps. 4–5 |
+| 23.09.26 | quarta        | 13h–15h   | Laboratório: Checker Framework | JDK + Maven/Gradle configurados. Leitura complementar opcional: [Papi et al., Practical Pluggable Types for Java (ISSTA 2008)](https://dl.acm.org/doi/10.1145/1390630.1390656) |
 | 28.09.26 | segunda       | 15h–17h   | Análise interprocedural | Leitura: CMU-PA Caps. 8, 10 |
-| 30.09.26 | quarta        | 13h–15h   | Discussão: A definir | --- |
+| 30.09.26 | quarta        | 13h–15h   | Discussão: [Distefano, Fähndrich, Logozzo & O'Hearn — Scaling Static Analyses at Facebook (CACM 2019)](https://dl.acm.org/doi/10.1145/3338112) | Leitura obrigatória; trazer 1 pergunta |
 | 05.10.26 | segunda       | 15h–17h   | Laboratório: SootUp | JDK + Maven/Gradle configurados. Leitura complementar opcional: [Karakaya et al., SootUp: A Redesign of the Soot Static Analysis Framework (TACAS 2024)](https://dl.acm.org/doi/10.1007/978-3-031-57246-3_13) |
 | 07.10.26 | quarta        | 13h–15h   | IFDS e IDE | Leitura complementar opcional: SPA Cap. 9 |
 | 12.10.26 | segunda       | 15h–17h   | **Nossa Senhora Aparecida (Feriado Nacional)** | --- |
