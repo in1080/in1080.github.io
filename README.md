@@ -105,15 +105,15 @@ Cada unidade é estruturada para responder, de forma explícita, a três pergunt
 | 28.09.26 | segunda       | 15h–17h   | Análise interprocedural | Leitura: CMU-PA Caps. 8, 10 |
 | 30.09.26 | quarta        | 13h–15h   | Discussão: [Distefano, Fähndrich, Logozzo & O'Hearn — Scaling Static Analyses at Facebook (CACM 2019)](https://dl.acm.org/doi/10.1145/3338112) | Leitura obrigatória; trazer 1 pergunta |
 | 05.10.26 | segunda       | 15h–17h   | Laboratório: SootUp | JDK + Maven/Gradle configurados. Leitura complementar opcional: [Karakaya et al., SootUp: A Redesign of the Soot Static Analysis Framework (TACAS 2024)](https://dl.acm.org/doi/10.1007/978-3-031-57246-3_13) |
-| 07.10.26 | quarta        | 13h–15h   | IFDS e IDE | Leitura complementar opcional: SPA Cap. 9 |
+| 07.10.26 | quarta        | 13h–15h   | IFDS | Leitura complementar opcional: SPA Cap. 9 |
 | 12.10.26 | segunda       | 15h–17h   | **Nossa Senhora Aparecida (Feriado Nacional)** | --- |
-| 14.10.26 | quarta        | 13h–15h   | Discussão: A definir | --- |
-| 19.10.26 | segunda       | 15h–17h   | Laboratório: Heros | JDK + Maven/Gradle configurados |
-| 21.10.26 | quarta        | 13h–15h   | Discussão: A definir | --- |
-| 26.10.26 | segunda       | 15h–17h   | Apresentação de propostas de projeto (5-10 min) | Entrega da proposta (PDF, 1–2 páginas) até 24/10 |
-| 28.10.26 | quarta        | 13h–15h   | Análise dinâmica | --- |
+| 14.10.26 | quarta        | 13h–15h   | Laboratório: Heros | JDK + Maven/Gradle configurados |
+| 19.10.26 | segunda       | 15h–17h   | Discussão: [Eric Bodden, Inter-procedural data-flow analysis with IFDS/IDE and Soot (SOAP 2012)](https://dl.acm.org/doi/10.1145/2259051.2259052) | Leitura obrigatória; trazer 1 pergunta |
+| 21.10.26 | quarta        | 13h–15h   | Análise dinâmica | --- |
+| 26.10.26 | segunda       | 15h–17h   | Laboratório + discussão: [Eghbali and Pradel — DynaPyt: A Dynamic Analysis Framework for Python (FSE 2022)](https://dl.acm.org/doi/10.1145/3540250.3549126) | Python 3.10+ com `dynapyt` instalado. Leitura do paper antes da aula. |
+| 28.10.26 | quarta        | 13h–15h   | Discussão: [Michael Ernst — Static and dynamic analysis: synergy and duality (WODA 2003)](https://dl.acm.org/doi/10.1145/996821.996823) | Leitura obrigatória; trazer 1 pergunta |
 | 02.11.26 | segunda       | 15h–17h   | **Finados (Feriado Nacional)** | --- |
-| 04.11.26 | quarta        | 13h–15h   | Laboratório + discussão: [Eghbali and Pradel — DynaPyt: A Dynamic Analysis Framework for Python (FSE 2022)](https://dl.acm.org/doi/10.1145/3540250.3549126) | Python 3.10+ com `dynapyt` instalado. Leitura do paper antes da aula. |
+| 04.11.26 | quarta        | 13h–15h   | Apresentação de propostas de projeto (5-10 min) | Entrega da proposta (PDF, 1–2 páginas) até 24/10 |
 | 09.11.26 | segunda       | 15h–17h   | Acompanhamento de projeto | Discutir estado atual do projeto |
 | 11.11.26 | quarta        | 13h–15h   | Acompanhamento de projeto | Discutir estado atual do projeto |
 | 16.11.26 | segunda       | 15h–17h   | Lógica de Hoare, SMT e execução simbólica | Leitura: CMU-PA Caps. 11–14. |
