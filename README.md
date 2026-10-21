@@ -78,11 +78,13 @@ Cada unidade é estruturada para responder, de forma explícita, a três pergunt
 
 | Data | Marco |
 |---|---|
-| 24/10 | Entrega da proposta (PDF, 1–2 páginas) |
-| 26/10 | Apresentação de propostas em aula |
-| 11/11 | Entrega do relatório intermediário (PDF, 4–6 páginas) |
+| 10/11 | Entrega da proposta (PDF, 1–2 páginas) |
+| 11/11 | Apresentação de propostas em aula |
+| 19/11 | Relato curto de andamento |
+| 29/11 | Entrega do relatório intermediário (PDF, 4–6 páginas) |
+| 02/12 | Check-in intermediário (remoto, assíncrono) |
+| 18/12 | Entrega final do projeto: relatório (PDF, 8–12 páginas) + repositório |
 | 14/12 e 16/12 | Apresentações finais |
-| 21/12 | Prazo final para entrega do relatório e repositório do projeto (sem aula) |
 
 ### Plano de Ensino
 
@@ -109,21 +111,21 @@ Cada unidade é estruturada para responder, de forma explícita, a três pergunt
 | 12.10.26 | segunda       | 15h–17h   | **Nossa Senhora Aparecida (Feriado Nacional)** | --- |
 | 14.10.26 | quarta        | 13h–15h   | Laboratório: Heros | JDK + Maven/Gradle configurados |
 | 19.10.26 | segunda       | 15h–17h   | Discussão: [Eric Bodden, Inter-procedural data-flow analysis with IFDS/IDE and Soot (SOAP 2012)](https://dl.acm.org/doi/10.1145/2259051.2259052) | Leitura obrigatória; trazer 1 pergunta |
-| 21.10.26 | quarta        | 13h–15h   | Análise dinâmica | --- |
+| 21.10.26 | quarta        | 13h–15h   | [REMOTA] Análise dinâmica | --- |
 | 26.10.26 | segunda       | 15h–17h   | Laboratório `dynapyt` | Python 3.10+ com `dynapyt` instalado. |
 | 28.10.26 | quarta        | 13h–15h   | Discussão: [Michael Ernst — Static and dynamic analysis: synergy and duality (WODA 2003)](https://dl.acm.org/doi/10.1145/996821.996823) e [Eghbali and Pradel — DynaPyt: A Dynamic Analysis Framework for Python (FSE 2022)](https://dl.acm.org/doi/10.1145/3540250.3549126) | Leitura obrigatória; trazer 1 pergunta |
 | 02.11.26 | segunda       | 15h–17h   | **Finados (Feriado Nacional)** | --- |
-| 04.11.26 | quarta        | 13h–15h   | Apresentação de propostas de projeto (5-10 min) | Entrega da proposta (PDF, 1–2 páginas) até 24/10 |
-| 09.11.26 | segunda       | 15h–17h   | Acompanhamento de projeto | Discutir estado atual do projeto |
-| 11.11.26 | quarta        | 13h–15h   | Acompanhamento de projeto | Discutir estado atual do projeto |
-| 16.11.26 | segunda       | 15h–17h   | Lógica de Hoare, SMT e execução simbólica | Leitura: CMU-PA Caps. 11–14. |
-| 18.11.26 | quarta        | 13h–15h   | Laboratório: verificação de propriedades com Z3 (Python) | Python 3.10+ com `z3-solver` instalado |
-| 23.11.26 | segunda       | 15h–17h   | Discussão: A definir | --- |
-| 25.11.26 | quarta        | 13h–15h   | Geração de testes | Leitura: CMU-PA Cap. 16. Leitura complementar: [Manès et al., The Art, Science, and Engineering of Fuzzing: A Survey (IEEE TSE 2021)](https://ieeexplore.ieee.org/document/8863940) |
-| 30.11.26 | segunda       | 15h–17h   | Acompanhamento de projeto | Discutir estado atual do projeto |
-| 02.12.26 | quarta        | 13h–15h   | [REMOTA] A definir | --- |
-| 07.12.26 | segunda       | 15h–17h   | Discussão: A definir | --- |
+| 04.11.26 | quarta        | 13h–15h   | Lógica de Hoare, SMT e execução simbólica | Leitura: CMU-PA Caps. 11–14. Leitura complementar: [Baldoni et al., A Survey of Symbolic Execution Techniques (ACM CSUR 2018)](https://doi.org/10.1145/3182657) |
+| 09.11.26 | segunda       | 15h–17h   | Laboratório: verificação de propriedades com Z3 (Python) | Python 3.10+ com `z3-solver` instalado |
+| 11.11.26 | quarta        | 13h–15h   | Apresentação de propostas de projeto (5-10 min) | Entrega da proposta (PDF, 1–2 páginas) até 10/11 |
+| 16.11.26 | segunda       | 15h–17h   | Discussão: [Cadar, Dunbar & Engler — KLEE (OSDI 2008)](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/cadar/cadar.pdf) | Leitura obrigatória; trazer 1 pergunta |
+| 18.11.26 | quarta        | 13h–15h   | Geração de testes | Leitura: CMU-PA Cap. 16. Relato curto de andamento do projeto até 19/11 |
+| 23.11.26 | segunda       | 15h–17h   | Fuzzing: aula + laboratório | Leitura complementar: [Manès et al., The Art, Science, and Engineering of Fuzzing: A Survey (IEEE TSE 2021)](https://ieeexplore.ieee.org/document/8863940); Stephens et al., Driller (NDSS 2016) |
+| 25.11.26 | quarta        | 13h–15h   | Discussão: [Xia et al. — Fuzz4All (ICSE 2024)](https://dl.acm.org/doi/10.1145/3597503.3639121) e [Li, Dutta & Naik — IRIS (ICLR 2025)](https://arxiv.org/abs/2405.17238) | Turma dividida: cada metade lê e apresenta um dos artigos |
+| 30.11.26 | segunda       | 15h–17h   | Fechamento do conteúdo | --- |
+| 02.12.26 | quarta        | 13h–15h   | [REMOTA] Check-in intermediário de projeto | Entrega do relatório intermediário (PDF, 4–6 páginas) até 29/11 |
+| 07.12.26 | segunda       | 15h–17h   | Acompanhamento de projeto | Discutir estado atual do projeto |
 | 09.12.26 | quarta        | 13h–15h   | Acompanhamento de projeto | Discutir estado atual do projeto |
 | 14.12.26 | segunda       | 15h–17h   | Apresentações finais de projeto — Parte 1 | Apresentações de 12–15 min |
 | 16.12.26 | quarta        | 13h–15h   | Apresentações finais de projeto — Parte 2 | Apresentações de 12–15 min |
-| 21.12.26 | segunda       | —         | **Prazo limite para entrega final do projeto (relatório + repositório)** | --- |
+| 18.12.26 | sexta         | —         | **Prazo limite para entrega final do projeto (relatório + repositório)** | --- |
