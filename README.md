@@ -113,7 +113,7 @@ Cada unidade é estruturada para responder, de forma explícita, a três pergunt
 | 19.10.26 | segunda       | 15h–17h   | Discussão: [Eric Bodden, Inter-procedural data-flow analysis with IFDS/IDE and Soot (SOAP 2012)](https://dl.acm.org/doi/10.1145/2259051.2259052) | Leitura obrigatória; trazer 1 pergunta |
 | 21.10.26 | quarta        | 13h–15h   | [REMOTA] Análise dinâmica | --- |
 | 26.10.26 | segunda       | 15h–17h   | Laboratório `dynapyt` | Python 3.10+ com `dynapyt` instalado. |
-| 28.10.26 | quarta        | 13h–15h   | Discussão: [Michael Ernst — Static and dynamic analysis: synergy and duality (WODA 2003)](https://dl.acm.org/doi/10.1145/996821.996823) e [Eghbali and Pradel — DynaPyt: A Dynamic Analysis Framework for Python (FSE 2022)](https://dl.acm.org/doi/10.1145/3540250.3549126) | Leitura obrigatória; trazer 1 pergunta |
+| 28.10.26 | quarta        | 13h–15h   | Discussão: [Michael Ernst — Static and dynamic analysis: synergy and duality (WODA 2003)](https://homes.cs.washington.edu/~mernst/pubs/staticdynamic-woda2003.pdf) e [Eghbali and Pradel — DynaPyt: A Dynamic Analysis Framework for Python (FSE 2022)](https://dl.acm.org/doi/10.1145/3540250.3549126) | Leitura obrigatória; trazer 1 pergunta |
 | 02.11.26 | segunda       | 15h–17h   | **Finados (Feriado Nacional)** | --- |
 | 04.11.26 | quarta        | 13h–15h   | Lógica de Hoare, SMT e execução simbólica | Leitura: CMU-PA Caps. 11–14. Leitura complementar: [Baldoni et al., A Survey of Symbolic Execution Techniques (ACM CSUR 2018)](https://doi.org/10.1145/3182657) |
 | 09.11.26 | segunda       | 15h–17h   | Laboratório: verificação de propriedades com Z3 (Python) | Python 3.10+ com `z3-solver` instalado |
